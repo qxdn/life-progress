@@ -1,6 +1,9 @@
 // 绝对路径
-const cssCDN = "https://cdn.jsdelivr.net/gh/qxdn/life-progress@latest/life-progress.min.css";
-const jsCDN = "https://cdn.jsdelivr.net/gh/qxdn/life-progress@latest/life-progress.min.js";
+//const cssCDN = "https://cdn.jsdelivr.net/gh/qxdn/life-progress@latest/life-progress.min.css";
+//const jsCDN = "https://cdn.jsdelivr.net/gh/qxdn/life-progress@latest/life-progress.min.js";
+// 国内
+const cssCDN = "https://jsd.cdn.zzko.cn/gh/qxdn/life-progress@latest/life-progress.min.css";
+const jsCDN = "https://jsd.cdn.zzko.cn/gh/qxdn/life-progress@latest/life-progress.min.js";
 const targetElementId = "life-progress";
 
 // 封装异步加载资源的方法
