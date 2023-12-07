@@ -1,6 +1,6 @@
 // 绝对路径
-const cssCDN = "../life-progress.css";
-const jsCDN = "../life-progress.js";
+const cssCDN = "https://cdn.jsdelivr.net/gh/qxdn/life-progress@latest/life-progress.min.css";
+const jsCDN = "https://cdn.jsdelivr.net/gh/qxdn/life-progress@latest/life-progress.min.js";
 const targetElementId = "life-progress";
 
 // 封装异步加载资源的方法
